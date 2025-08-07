@@ -17,6 +17,7 @@ Apple Inc. hisse senedi fiyatlarının geçmiş verileri, grafiksel analizler ve
 Film Kapağı ve Bilgileri:
 Popüler filmler, film kapakları ve içerik bilgileri görsel olarak sunulmuştur.
 Bu sayfa, verinin görsel olarak nasıl sunulabileceğine dair örnek niteliğindedir.
+Bilgilerini almak istediğiniz filmler için bir excel dosyası oluşturun, buraya isimlerini koyun ve data resource olarak raporunuza ekleyin.
 
 🔗 Kullanılan Veri Kaynakları
 omdpapi.com – Film bilgileri
